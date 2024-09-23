@@ -1,0 +1,106 @@
+.grandfather{
+    background-image: url('—Pngtree—innovative\ 3d\ rendering\ of\ laser_5825067.jpg');
+}
+.parent{
+    
+}
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+.nav{
+    display: flex;
+    
+    font-size: 20px;
+    color: white;
+}
+.list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    color: white;
+}
+.li{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(102, 165, 190) , rgb(172, 88, 172));
+    color: white;
+    
+}
+
+.father{
+    
+    display: flex;
+}
+.childone{
+    
+    flex: 1;
+    padding: 60px;
+}
+
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 40px;
+    margin-left: 20px;
+    color: white;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 18px;
+    margin-left: 20px;
+    color: white;
+    margin-bottom: 60px;
+}
+.butt{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 12px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 12px;
+    margin-bottom: 60px;
+    background-image: linear-gradient(to right, rgb(102, 165, 190) , rgb(172, 88, 172));
+    color: white;
+    
+}
+.graph{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-left: 20px;
+    color: white;
+   
+}
+.rev{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    border-left: solid rgb(243, 241, 241);
+    margin-left: 20px;
+    color: white;
+    padding-left: 15px;
+    
+}
+.childtwo{
+    
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
