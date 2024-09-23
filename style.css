@@ -1,10 +1,10 @@
 .grandfather{
     background-image: url('—Pngtree—innovative\ 3d\ rendering\ of\ laser_5825067.jpg');
 }
-.parent{
-    
-}
 
+.body{
+    margin: 0px;
+}
 
 .main{
     display: flex;
